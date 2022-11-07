@@ -1,2 +1,2 @@
-## Hello, my name is Ivan Abreu
-and I build stuffs 
+### Hello,
+my name is **Ivan Abreu** and I build stuffs. 
